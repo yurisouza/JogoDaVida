@@ -16,6 +16,7 @@ Retorne o que acontece com uma célula selecionada da matriz do Exemplo:
 Dado viva = 1 e morta = 0 
 
 Para uma matriz:    
+
 1 0 0
 
 0 1 0
